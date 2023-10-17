@@ -1,2 +1,2 @@
 # CTF-bandit
-write up on bandit ctf for MIST
+write up on bandit ctf.
